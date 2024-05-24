@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Normal Zombie
+  - Teleporter Start
+  - Knife
+  - Target
+  - Metal
+  - ExplosiveBarrel
+  - Enemy
+  - NextLevelDoor
+  - Ammo Box
+  - Medkit
+  - TeleporterToLevel1
+  - SecondCamera
+  - BulletSpawn
+  - Weapon
+  - RunnableWall
+  - Door To Open
+  - Access Key
+  - Poison
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
